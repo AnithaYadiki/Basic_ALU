@@ -1,4 +1,4 @@
-0module alu(input[7:0]a_in,b_in,
+module alu(input[7:0]a_in,b_in,
            input [3:0]command_in,
 		   input oe;sdc 
 		   output [15:0]d_out);
